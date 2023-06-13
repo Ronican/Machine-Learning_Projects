@@ -1,2 +1,3 @@
 # Machine-Learning_Projects
-Various Machine Learning Projects of mine
+
+This repository is the **Machine Learning** projects I did.
